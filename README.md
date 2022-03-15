@@ -23,3 +23,4 @@ Java Lab Programs
 
 ## Misc
 - System.exit(0) command terminates running java virtual machine.
+- Only throwable objects (Objects which are subclass of any Throwable class) can be thrown as exception in java. 
