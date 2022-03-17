@@ -51,3 +51,9 @@ class Main {
         }
     }
 }
+
+/* OUTPUT: 
+[Hello]
+[World]
+[Synchronised]
+*/
