@@ -20,6 +20,8 @@ Java Lab Programs
 ### Package classpath
 - Java uses current directory as working environment, so if a package is in the sub-directory of the current directory, it will be found.
 
+## Events 
+
 
 ## Misc
 - System.exit(0) command terminates running java virtual machine.
