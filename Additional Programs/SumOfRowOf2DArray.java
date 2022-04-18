@@ -29,6 +29,17 @@ class Main {
             }
             System.out.println("Sum of " + (i + 1) + " row: " + sumRow);
         }
+        
+        //Sum of each column
+        /*
+        for(i = 0; i < 4; i++) {
+            int sumCol = 0;
+            for(j = 0; j < i + 1; j++) {
+                sumCol = sumCol + twoD[i][j];
+            }
+            System.out.println("Sum of " + (i + 1) + " column: " + sumCol);
+        }
+        */
     }
 }
 
